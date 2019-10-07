@@ -4,6 +4,7 @@ A project using an Alexa powered device to control a [Lego Boots Robot](https://
 # Hardware & Service requirements
 - [Lego Boots Robot](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101)
 - Raspberry PI Zero or other device that can run node and is connected to the internet.
+- AWS Account
 
 # Installation instructions
 1. Create new folder called "certs" in the root and store the generated a certificate, public key, and private key using AWS IoT's certificate authority in AWS IoT Things page.
@@ -43,3 +44,7 @@ A project using an Alexa powered device to control a [Lego Boots Robot](https://
 - have a go at the driveroutine
 - please can you drivesquary
 - have a go at the shakinghead
+
+# Solution Architecture
+
+![Image of Solution Architecture](./assets/LegoRobot.png)
