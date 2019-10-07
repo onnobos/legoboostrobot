@@ -34,6 +34,7 @@ build/Release
 
 # Dependency directories
 node_modules/
+certs/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -59,3 +60,6 @@ typings/
 
 # next.js build output
 .next
+
+# configuraiton files
+config.json
