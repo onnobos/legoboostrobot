@@ -1,7 +1,0 @@
-{
-   "keyPath": "./certs/d86a5a17d8-private.pem.key",
-  "certPath": "./certs/d86a5a17d8-certificate.pem.crt",
-    "caPath": "./certs/AmazonRootCA1.pem",
-  "SHADOWID": "PiZeroRobotHub",
-      "host": "a2rgeifpr1fb5x-ats.iot.eu-west-1.amazonaws.com"
-}
