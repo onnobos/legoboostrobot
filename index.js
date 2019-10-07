@@ -14,8 +14,6 @@ boost.on('ble-ready', status => {
 
 const config = require('./config.json');
 
-const SHADOWID = "PiZeroRobotHub";
-
 var thingShadows = awsIot.thingShadow({
    keyPath: config.keyPath,
   certPath: config.certPath,
