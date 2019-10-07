@@ -1,5 +1,5 @@
 # Legoboostrobot
-A project controls the [Lego Boots Robot](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101) using an Alexa device.
+A project using an Alexa powered device to control a [Lego Boots Robot](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101). The Lego Boots robot is connected to Raspberry PI Zero using Bluetooth. Raspberry PI Zero is connected to the Internet.
 
 # Hardware & Service requirements
 - [Lego Boots Robot](https://www.lego.com/en-gb/product/boost-creative-toolbox-17101)
